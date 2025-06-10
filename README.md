@@ -1,6 +1,6 @@
 # **Multi-pass-welding-residual-stress-simulation**
 
-This repository contains the source code and simulation files used to analyze residual stresses in welded built-up steel box columns, as presented in the associated research paper.
+This repository contains the source code, and simulation results used in the study: “The effect of multi-pass welding on residual stresses in fillet welded built-up steel box sections”
 
 # **Overview**
 
